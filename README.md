@@ -18,13 +18,13 @@ wsl --install
 ```bash
 wsl -d Ubuntu
 ```
-> password diye daw
 ---
 
 #### Update System Packages
 ```bash
 sudo apt-get update
 ```
+> password diye daw
 ---
 
 #### Install Required Dependencies
