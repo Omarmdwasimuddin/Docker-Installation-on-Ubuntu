@@ -4,6 +4,9 @@
 ```bash
 wsl --install
 ```
+Create a default Unix user account: md_wasim_uddin
+New password:wasim
+Retype new password:wasim
 ---
 
 #### Update System Packages
