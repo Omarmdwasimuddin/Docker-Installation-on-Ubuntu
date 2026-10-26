@@ -1,5 +1,11 @@
 ## Docker Installation on Ubuntu
 
+#### Windows e Ubuntu Linux use korar jonno install koro
+```bash
+wsl --install
+```
+---
+
 #### Update System Packages
 ```bash
 sudo apt-get update
