@@ -1,6 +1,6 @@
 ## Docker Installation on Ubuntu
 
-#### Windows e Ubuntu Linux use korar jonno install koro
+#### Windows e Ubuntu Linux use korar jonno install koro [Powershell administritor]
 ```bash
 wsl --install
 ```
@@ -12,6 +12,13 @@ wsl --install
 
 > `Would you like to opt-in to platform metrics collection (Y/n)? To see an example of the data collected, enter 'e'.
 [Y/n/e]: n`  n diye enter chapo
+---
+
+#### Ubuntu Terminal e probesh koro
+```bash
+wsl -d Ubuntu
+```
+> password diye daw
 ---
 
 #### Update System Packages
