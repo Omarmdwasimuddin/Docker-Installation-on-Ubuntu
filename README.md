@@ -9,6 +9,9 @@ wsl --install
 > New password:wasim
 
 > Retype new password:wasim
+
+> `Would you like to opt-in to platform metrics collection (Y/n)? To see an example of the data collected, enter 'e'.
+[Y/n/e]: n`  n diye enter chapo
 ---
 
 #### Update System Packages
